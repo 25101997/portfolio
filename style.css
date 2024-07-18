@@ -41,14 +41,21 @@ https://en.bem.info/methodology/quick-start/*/
 
 /*Sección Menu*/
 
-section.menu{
+.menu{
+    
+}
+
+.menu__header{
+    
+}
+.menu__list{
 
 }
 
 /*Sección Title*/
 
 section.title{
-
+    
 }
 
 /*Sección About*/
